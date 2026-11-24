@@ -1,0 +1,12 @@
+{
+  "cities": [
+    "nyc"
+  ],
+  "maxEventsPerCity": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

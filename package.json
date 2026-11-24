@@ -1,0 +1,20 @@
+{
+  "name": "partiful-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Partiful Scraper: Scrape Partiful events by city, host or link: dates, venue, guest counts, hosts, ticket prices and images. No login needed. Export JSON, CSV or Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "partiful"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
